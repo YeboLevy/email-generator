@@ -1,4 +1,0 @@
-[ ] Buy groceries
-[X] Call mom
-[ ] Finish project report
-[ ] Run a marathon
